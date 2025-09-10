@@ -1,7 +1,7 @@
-:# Laporan Modul 1: Perkenalan Laravel
-**Mata Kuliah:** Workshop Web Lanjut   
-**Nama:** Muhammad Dhiyaul Atha  
-**NIM:** 2024573010075 
+# Laporan Modul 1: Perkenalan Laravel<br>
+**Mata Kuliah:** Workshop Web Lanjut <br> 
+**Nama:** Muhammad Dhiyaul Atha <br>
+**NIM:** 2024573010075<br>
 **Kelas:** TI 2B  
 
 ---
@@ -12,9 +12,33 @@ Laporan ini membahas pengenalan framework Laravel sebagai fondasi dalam pengemba
 ---
 
 ## 1. Pendahuluan
-- Laravel adalah framework web PHP yang populer, bersifat open-source, dan dirancang untuk membangun aplikasi web modern yang skalabel dan aman.
+ Laravel adalah framework web PHP yang populer, bersifat open-source, dan dirancang untuk membangun aplikasi web modern yang skalabel dan aman.
 Laravel merupakan framework high-level yang bersifat opinionated (punya aturan dan konvensi tertentu). Nanti kita akan bahas lebih detail apa maksudnya. Laravel juga mengikuti arsitektur Model-View-Controller (MVC), yang akan kita pelajari lebih lanjut, dengan tujuan mempermudah sekaligus membuat proses pengembangan menjadi lebih efisien dan menyenangkan.
-- Apa itu Laravel?
+### Apa Itu Laravel?
+
+Laravel adalah framework web PHP yang populer, bersifat open-source, dan dirancang untuk membangun aplikasi web modern yang skalabel dan aman.
+Laravel merupakan framework high-level yang bersifat opinionated (punya aturan dan konvensi tertentu). Nanti kita akan bahas lebih detail apa maksudnya. Laravel juga mengikuti arsitektur Model-View-Controller (MVC), yang akan kita pelajari lebih lanjut, dengan tujuan mempermudah sekaligus membuat proses pengembangan menjadi lebih efisien dan menyenangkan.
+
+Bagi yang belum familiar, framework web adalah kumpulan pustaka (library) dan alat (tools) yang membantu pengembang membangun aplikasi lebih cepat dengan menyediakan fitur-fitur umum seperti:
+
+Routing
+Manajemen basis data
+Autentikasi (authentication)
+
+Laravel dibuat oleh Taylor Otwell pada tahun 2011 dan hingga kini menjadi salah satu framework PHP paling populer di dunia. Laravel dikenal karena:
+
+Sintaks yang ekspresif dan elegan
+Fitur yang lengkap dan kuat
+Komunitas yang aktif
+
+Laravel digunakan oleh pengembang di seluruh dunia untuk membangun berbagai jenis aplikasi, mulai dari blog sederhana hingga sistem perusahaan yang kompleks.
+
+Biasanya, saat orang belajar PHP, ada dua jalur umum:
+
+Belajar WordPress → Cocok untuk website berbasis konten atau blog
+Belajar Laravel → Cocok untuk aplikasi yang kompleks
+
+Tidak ada larangan untuk mempelajari keduanya.
 - Karakteristik utama (MVC, opinionated, dsb.)
 - Untuk jenis aplikasi apa Laravel cocok?
 
