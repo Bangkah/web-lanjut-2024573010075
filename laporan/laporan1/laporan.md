@@ -75,7 +75,7 @@ Tidak ada larangan untuk mempelajari keduanya.
 - **.env** – konfigurasi environment sensitif  
 
 ---
-
+    
 ## 4. Diagram MVC dan Cara Kerjanya  
 
 ![Diagram MVC](gambar/img.png)  
