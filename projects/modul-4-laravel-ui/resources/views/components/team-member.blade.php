@@ -1,3 +1,4 @@
+@props(['title', 'icon', 'description', 'badge', 'theme', 'name', 'role' => 'light'])
 <div class="col-md-4 mb-4">
     <div class="card {{ $theme === 'dark' ? 'bg-dark border-light' : '' }} h-100">
         <div class="card-body text-center">

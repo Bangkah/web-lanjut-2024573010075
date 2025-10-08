@@ -1,3 +1,4 @@
+@props(['title', 'icon', 'description', 'badge', 'theme', 'name', 'role', 'departments' => 'light'])
 <div class="card {{ $theme === 'dark' ? 'bg-dark border-light' : '' }} h-100">
     <div class="card-header">
         <h5>Form Kontak</h5>
@@ -11,7 +12,7 @@
             
             <div class="mb-3">
                 <label class="form-label">Email</label>
-                <input type="email" class="form-control {{ $theme === 'dark' ? 'bg-dark text-light border-light' : '' }}" placeholder="nama@example.com">
+                <input type="email" class="form-control {{ $theme ===  'dark' ? 'bg-dark text-light border-light' : '' }}" placeholder="nama@example.com">
             </div>
             
             <div class="mb-3">
