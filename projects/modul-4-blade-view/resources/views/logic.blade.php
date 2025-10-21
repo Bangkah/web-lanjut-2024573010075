@@ -39,7 +39,7 @@
         <p>No phone number available.</p>
     @endempty
     
-    <h2>6. @    @switch</h2>
+    <h2>6. @@switch</h2>
     @switch($status)
         @case('active')
             <p>Status: Active</p>
